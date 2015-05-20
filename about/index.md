@@ -5,12 +5,13 @@ excerpt: "A research project."
 modified: 
 image:
   feature: so-simple-sample-image-2.jpg
-  credit: Thor Magnusson
+  credit: Thor
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-## This research is all about:
+## So Simple Theme is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
