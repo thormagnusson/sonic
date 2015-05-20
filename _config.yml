@@ -5,7 +5,7 @@ locale: en_US
 description: Flott blogg og heimasida.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://thormagnusson.github.io/sonic/
 
 # Jekyll configuration
 
