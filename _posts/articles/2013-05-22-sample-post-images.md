@@ -41,6 +41,8 @@ And you'll get something that looks like this:
 	<figcaption>Two images.</figcaption>
 </figure>
 
+<a class="twitter-timeline" href="https://twitter.com/thormagnusson" data-widget-id="463657593794093056">Tweets by @thormagnusson</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 ### Three Up
 
 Apply the `third` class like so to display three images side by side that share the same caption.
